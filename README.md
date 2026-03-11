@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning java(script) and Python<br>🎯 Goals: complete school<br>🎲 Fun fact: i like foxes</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning <br>
+  - javascript/typescript<br>
+  - java<br>
+  - Python<br>
+  <br>🎯 Goals: complete school<br>🎲 Fun fact: i like foxes</p>
 
 ###
 
